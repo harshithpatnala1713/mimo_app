@@ -1,0 +1,4 @@
+/* All styles are defined inline in App.jsx via <style> tag injection.
+   This file intentionally left minimal to avoid conflicts. */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0a0c10; }
